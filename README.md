@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction
-This project uses the Heart disease prediction dataset on kaggle to predict whether or not a given patient has heart diseaes given features like age, max heart rate, resting bp etc.
+This project uses the Heart Disease Prediction dataset on kaggle to predict whether or not a given patient has heart diseaes given features like age, max heart rate, resting bp etc.
 
 STEPS:
 
